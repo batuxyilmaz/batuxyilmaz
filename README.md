@@ -1,13 +1,13 @@
-### Hi,I'm Santhosh 👋
+### Hi,I'm Batuhan 👋
 
-## I'm a Developer 👨‍💻
+## I'm a Game Developer and Computer Engineer 👨‍💻
 
 
 
-- 💻 I’m currently working on ZOSIME Tech
-- 🌱 I’m currently learning React,TypeScript etc..
-- 💬 Ask me about MERN stack,js,java etc..
-- 😄 Pronouns: san
+- 💻 I’m currently working on Start up game company
+- 🌱 I’m currently learning Blender,Unity etc..
+- 💬 Ask me about C#,SQL etc..
+- 😄 Pronouns: Batu
 
 ### Connect with me:
 
@@ -59,5 +59,5 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sank2000&show_icons=true&hide_border=true" />
 
 
-[twitter]: https://twitter.com/santhoshvelr
-[instagram]: https://instagram.com/santhoshvelr
+[twitter]: https://twitter.com/batuuu_Y
+[instagram]: https://www.instagram.com/batuxyilmaz/
