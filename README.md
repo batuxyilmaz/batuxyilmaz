@@ -19,7 +19,7 @@
 ### Languages and Libraries:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/Proinfinto/Tech-stuffs/blob/master/c-sharp%20(2).jpg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/c-sharp-2.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/c.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/cplusplus.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/python.png" />
