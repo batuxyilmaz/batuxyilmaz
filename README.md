@@ -19,7 +19,7 @@
 ### Languages and Libraries:
 
 
-<img align="left" alt="HTML5"  src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/unity.png"width="40" height="40" />
+<img align="left" alt="HTML5"  src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/unity.png" width="40" height="40" />
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
