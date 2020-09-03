@@ -19,33 +19,29 @@
 ### Languages and Libraries:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/c-sharp-2.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/unity.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/cplusplus.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/html5.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/css3.png" />
-
-
-
+<img align="left" alt="HTML5"  src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/unity.png"width="40" height="40" />
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
 
 <br />
 
 ### Tools and other stuffs:
 <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img  align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/Ardunio.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/android-studio.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/blender-3d.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/oracle.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/mysql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/sql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" />
-
+<img  align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/Ardunio.png" width="40" height="40" />
+<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" width="40" height="40"/>
+<img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
 
 <br />
