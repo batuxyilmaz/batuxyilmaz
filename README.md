@@ -34,7 +34,8 @@
 <br />
 
 ### Tools and other stuffs:
-
+<img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img  align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/Ardunio.png" />
