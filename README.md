@@ -50,4 +50,4 @@
 
 [twitter]: https://twitter.com/batuuu_Y
 [instagram]: https://www.instagram.com/batuxyilmaz/
-[Linkedln]: https://www.linkedin.com/in/batuxyilmaz/
+[Linkedln]: https://www.linkedin.com/in/batuyilmazz/
