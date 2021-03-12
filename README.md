@@ -4,7 +4,7 @@
 
 
 
-- 💻 I’m currently working on Start up game company
+- 💻 I’m currently working on my projects
 - 🌱 I’m currently learning Blender,Unity etc..
 - 💬 Ask me about C#,SQL etc..
 - 😄 Pronouns: Batu
