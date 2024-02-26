@@ -5,7 +5,7 @@
 
 
 - 💻 I’m currently working on my projects
-- 🌱 I’m currently learning Blender,Unity etc..
+- 🌱 I’m currently learning Spring Boot, Docker etc..
 - 💬 Ask me about C#,SQL etc..
 - 😄 Pronouns: Batu
 - Portfolio example games :https://drive.google.com/drive/folders/1s2XXAc552eReKRpvr5O_6yFavJtUgH1D?usp=sharing
