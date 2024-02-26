@@ -18,25 +18,14 @@
 
 <br />
 
-### Languages and Libraries:
+### Languages and Frameworks:
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,css,cs,cpp,java)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=py,css,cs,cpp,java,mysql,selenium,unity)](https://skillicons.dev)
 
 <br />
 
-### Tools and other stuffs:
-<img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img  align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/Proinfinto/Tech-stuffs/master/PNG/Ardunio.png" width="40" height="40" />
-<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/visualstudiocode.png" width="40" height="40"/>
-<img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,docker,git,jenkins,kubernetes,postman,spring,tensorflow)](https://skillicons.dev)
 
 
 
