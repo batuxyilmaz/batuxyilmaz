@@ -21,7 +21,7 @@
 ### Languages and Frameworks:
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,css,cs,cpp,java,mysql,selenium,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,css,cs,java,mysql,selenium,unity)](https://skillicons.dev)
 
 <br />
 
