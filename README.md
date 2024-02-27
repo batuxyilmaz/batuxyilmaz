@@ -12,8 +12,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sank2000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sank2000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sank2000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />][Linkedln]
 
 <br />
