@@ -1,6 +1,6 @@
 ### Hi,I'm Batuhan 👋
 
-## I'm a Game Developer and Computer Engineer 👨‍💻
+## I'm a Software Developer and Computer Engineer 👨‍💻
 
 
 
