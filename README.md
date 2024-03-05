@@ -23,7 +23,7 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,docker,git,jenkins,kubernetes,postman,spring,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,grafana,prometheus,docker,git,jenkins,kubernetes,postman,spring,tensorflow)](https://skillicons.dev)
 
 
 
